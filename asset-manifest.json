@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/my-portfolio-web/static/css/main.d7927d9c.css",
-    "main.js": "/my-portfolio-web/static/js/main.cf669dee.js",
+    "main.css": "/my-portfolio-web/static/css/main.0b8a6aa6.css",
+    "main.js": "/my-portfolio-web/static/js/main.c41b3cf3.js",
     "static/media/portfolio14.png": "/my-portfolio-web/static/media/portfolio14.16d412374cbe5eabd882.png",
     "static/media/portfolio16.png": "/my-portfolio-web/static/media/portfolio16.b327bc4adcc26c65f056.png",
     "static/media/portfolio17.png": "/my-portfolio-web/static/media/portfolio17.efe6fd33c56d9afab60b.png",
     "static/media/portfolio5.png": "/my-portfolio-web/static/media/portfolio5.1bbee9658079559a9985.png",
-    "static/media/portfolio13.png": "/my-portfolio-web/static/media/portfolio13.4c69a13d23b7854a3d6b.png",
     "static/media/portfolio9.png": "/my-portfolio-web/static/media/portfolio9.4ddfbcd3374929287df9.png",
     "static/media/9.jpg": "/my-portfolio-web/static/media/9.186a1e41fa31650d353c.jpg",
     "static/media/10.jpg": "/my-portfolio-web/static/media/10.782af3f5083c69117c5c.jpg",
@@ -17,16 +16,15 @@
     "static/media/portfolio6.png": "/my-portfolio-web/static/media/portfolio6.523239fc8f943d64166b.png",
     "static/media/portfolio7.png": "/my-portfolio-web/static/media/portfolio7.1d2c48366bde56b8c84a.png",
     "static/media/portfolio4.png": "/my-portfolio-web/static/media/portfolio4.9ef1a64f54683d2f2153.png",
-    "static/media/lakshitha-cv.pdf": "/my-portfolio-web/static/media/lakshitha-cv.6803c8c5f407e74a6311.pdf",
     "static/media/portfolio1.png": "/my-portfolio-web/static/media/portfolio1.c2159130f41b0ab2887c.png",
     "static/media/portfolio10.png": "/my-portfolio-web/static/media/portfolio10.1f32088a60c70ca30870.png",
     "static/media/portfolio2.png": "/my-portfolio-web/static/media/portfolio2.760959a1719591eb7781.png",
     "index.html": "/my-portfolio-web/index.html",
-    "main.d7927d9c.css.map": "/my-portfolio-web/static/css/main.d7927d9c.css.map",
-    "main.cf669dee.js.map": "/my-portfolio-web/static/js/main.cf669dee.js.map"
+    "main.0b8a6aa6.css.map": "/my-portfolio-web/static/css/main.0b8a6aa6.css.map",
+    "main.c41b3cf3.js.map": "/my-portfolio-web/static/js/main.c41b3cf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7927d9c.css",
-    "static/js/main.cf669dee.js"
+    "static/css/main.0b8a6aa6.css",
+    "static/js/main.c41b3cf3.js"
   ]
 }
